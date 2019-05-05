@@ -10,6 +10,7 @@
         <module name="commonutils" />
         <module name="EurkaServer" />
         <module name="user_service" />
+        <module name="zuul" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,43 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EurekaServer:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="becd5e74-3543-4f2e-a108-a440dfe2436b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EurekaServer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cc/ant/microservice/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/bootstarp.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../commonutils/src/main/java/cc/ant/dataformat/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user_service/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user_service/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user_service/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user_service/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user_service/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user_service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user_service/src/main/java/cc/ant/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../user_service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zuul/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zuul/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zuul/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zuul/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zuul/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zuul/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zuul/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zuul/zuul.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Antblog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Antblog/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Antblog/Antblog.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Antblog/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Antblog/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/EurekaServer_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Antblog/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Antblog/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Antblog/target/microservicecloud.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EurekaServer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cc/ant/microservice/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cc/ant/microservice/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cc/ant/microservice/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cc/ant/microservice/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/microservicecloud.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../commonutils/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../commonutils/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../commonutils/target/microservicecloud.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user_service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../user_service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_service/target/classes/META-INF/user_service.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../user_service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../user_service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../user_service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_service/target/microservicecloud.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul/target/microservicecloud.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul/target/microservicecloud.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zuul/zuul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../zuul/zuul.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,25 +44,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="46" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="46" />
+            <state relative-caret-position="491">
+              <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cc/ant/microservice/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="209">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -103,7 +105,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="106" />
     <option name="y" value="12" />
-    <option name="width" value="1400" />
+    <option name="width" value="1789" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -145,6 +147,18 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="microservice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="EurekaServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EurekaServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EurekaServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EurekaServer" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -164,12 +178,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="eurekaserver" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556374882914" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556722462620" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cc.ant.microservice.App" />
       <module name="EurekaServer" />
@@ -193,6 +214,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="EurekaServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cc.ant.microservice.App" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -216,16 +244,19 @@
       <workItem from="1556359591393" duration="2336000" />
       <workItem from="1556372901733" duration="416000" />
       <workItem from="1556374021782" duration="672000" />
+      <workItem from="1556683635210" duration="7015000" />
+      <workItem from="1556722662267" duration="613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3424000" />
+    <option name="totallyTimeSpent" value="11052000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="106" y="12" width="1400" height="1000" extended-state="0" />
+    <frame x="106" y="12" width="1789" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20474263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -236,7 +267,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3290993" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995381" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -253,7 +284,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.32910448" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.25506073" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
@@ -266,22 +297,105 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="46" />
+        <state relative-caret-position="491">
+          <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cc/ant/microservice/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="209">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>EurekaServer:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jdk1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|EurekaServer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
